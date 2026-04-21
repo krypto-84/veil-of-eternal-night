@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "The Gloaming",
+    pageTitle: "Veil of Eternal Night",
     pageTitleSuffix: "",
     enableSPA: false,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "gloaming.kryptonick.com",
+    baseUrl: "veil-of-eternal-night.pages.dev",
     trailingSlash: true,	
     ignorePatterns: ["private", "templates", ".obsidian", "_gm", "assets"],
     defaultDateType: "modified",

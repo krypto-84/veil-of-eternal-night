@@ -1,18 +1,20 @@
 ---
-title: Welcome to the Gloaming
+title: Veil of Eternal Night
 ---
 
-# Welcome to the Gloaming
+# Veil of Eternal Night
 
-The Gloaming is a dark and perilous frontier -- a place where the light of civilisation gives way to something older and stranger. You are adventurers operating on the edge of the known world.
+*Michael's notes. Written in a cramped hand, smelling faintly of whiskey and candle smoke.*
 
-## What You Know
+The darkness is spreading. I don't fully understand what I've walked into yet, but I know trouble when I see it. I've seen enough of it.
 
-*Add a brief overview of the setting as your players understand it.*
+These are my observations. What I know, what I suspect, and what I'm trying not to think about too hard.
 
-## Quick Links
+## Contents
 
 - [[sessions/index|Session Recaps]]
-- [[npcs/index|NPCs]]
-- [[locations/index|Locations]]
-- [[factions/index|Factions]]
+- [[party/index|The Party]]
+- [[npcs/index|People We've Met]]
+- [[locations/index|Places]]
+- [[lore/index|What We Know]]
+- [[theories/index|Working Theories]]

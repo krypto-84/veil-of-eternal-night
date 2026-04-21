@@ -4,8 +4,8 @@ title: Session Recaps
 
 # Session Recaps
 
-A record of your adventures in the Gloaming.
+A record of events, in the order they happened to us.
 
-| Session                                  | Title                    | Date       |
-| ---------------------------------------- | ------------------------ | ---------- |
-| [[sessions/session-001.html\|Session 1]] | Tomb of the Serpent King | 20/04/2026 |
+| Session | Title | Date |
+|---------|-------|------|
+| [[sessions/session-001\|Session 1]] | *Title here* | *Date* |

@@ -1,19 +1,15 @@
 ---
-title: NPCs
+title: People We've Met
 ---
 
-# NPCs
+# People We've Met
 
-People the party has encountered in the Gloaming.
+*Everyone worth remembering. Everyone worth being wary of.*
 
 ## Allies
 
-*People who have helped you or seem trustworthy.*
-
 ## Neutral
 
-*People whose allegiances are unclear.*
+## Hostile
 
-## Enemies
-
-*People who want you dead.*
+## Unknown

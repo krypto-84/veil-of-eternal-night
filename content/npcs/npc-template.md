@@ -1,18 +1,22 @@
 ---
 title: NPC Name
-tags: [npc, ally]
+tags: [npc]
 ---
 
 # NPC Name
 
-**Role:** *What they do / who they are*
-**Location:** *Where they're based*
-**Disposition:** *How they feel about the party*
+**Who They Are:** *Role, faction, occupation*
+**Where We Met:** *Location and circumstances*
+**Disposition:** *How do they feel about the party?*
 
-## What You Know
+## What They've Told Us
 
-*Information the party has learned about this person.*
+*Information they've shared -- but remember, people lie.*
 
-## Dealings with the Party
+## What We've Observed
 
-*History of interactions.*
+*What Michael has noticed that they haven't said outright.*
+
+## Trust Level
+
+*Do I believe them? Should I?*

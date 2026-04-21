@@ -1,15 +1,13 @@
 ---
-title: Locations
+title: Places
 ---
 
-# Locations
+# Places
 
-Places the party has visited or heard about.
+*Locations we've visited or heard about. The region is not safe.*
 
 ## Visited
 
-*Locations you have been to.*
+## Heard About
 
-## Rumoured
-
-*Places you've heard about but not yet seen.*
+## Avoid If Possible

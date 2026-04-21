@@ -5,17 +5,14 @@ tags: [location]
 
 # Location Name
 
-**Type:** *Town / Dungeon / Wilderness / etc.*
-**Status:** *Visited / Rumoured / Hostile*
+**Type:** *Town / Ruin / Road / Estate / etc.*
+**Status:** *Visited / Rumoured / Hostile / Abandoned*
+**Atmosphere:** *What does it feel like? What's wrong with it?*
 
-## Description
+## What We Know
 
-*What the party knows about this place.*
-
-## Notable People
-
-*Who lives or operates here.*
+## Notable People Here
 
 ## Points of Interest
 
-*Specific places within the location.*
+## What To Watch Out For
