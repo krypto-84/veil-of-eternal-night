@@ -2,9 +2,6 @@
 title: NPC Name
 tags: [npc]
 ---
-
-# NPC Name
-
 **Who They Are:** *Role, faction, occupation*
 **Where We Met:** *Location and circumstances*
 **Disposition:** *How do they feel about the party?*

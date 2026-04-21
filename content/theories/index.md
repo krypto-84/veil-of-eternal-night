@@ -1,5 +1,5 @@
 ---
-title: Working Theories
+title: Theories
 ---
 
 # Working Theories

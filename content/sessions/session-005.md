@@ -2,9 +2,6 @@
 title: "Session 5: Enter Stage Left"
 date: 2026-04-14
 ---
-
-# Session 5: Enter Stage Left
-
 ## The Short Version
 
 The party break Michael out of jail, do some grave robbing and plan to leave Brokensheild.

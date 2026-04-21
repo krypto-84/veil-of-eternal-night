@@ -1,5 +1,5 @@
 ---
-title: What We Know
+title: Lore
 ---
 
 # What We Know

@@ -1,9 +1,6 @@
 ---
 title: Veil of Eternal Night
 ---
-
-# Veil of Eternal Night
-
 *Michael's notes. Written in a cramped hand, smelling faintly of whiskey and candle smoke.*
 
 The darkness is spreading. I don't fully understand what I've walked into yet, but I know trouble when I see it. I've seen enough of it.
