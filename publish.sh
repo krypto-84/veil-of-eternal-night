@@ -3,11 +3,11 @@ set -e
 
 echo "Syncing content from Obsidian..."
 rsync -av --delete \
-  ~/Documents/obsidian/the-gloaming/ \
-  ~/gloaming-wiki/content/
+  ~/Documents/obsidian/veil-of-eternal-night/ \
+  ~/veil-wiki/content/
 
 echo "Pushing to GitHub..."
-cd ~/gloaming-wiki
+cd ~/veil-wiki
 git add -A
 git commit -m "Update content $(date '+%Y-%m-%d %H:%M')"
 git push github v4

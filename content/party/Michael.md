@@ -1,9 +1,10 @@
 ---
-title: Character Name
-tags: [party]
+title: Michael
+tags:
+  - party
 ---
 
-# Character Name
+# Michael
 
 **Class/Role:** *What do they do in a fight? What's their angle?*
 **First Impressions:** *What did Michael make of them when they first met?*
