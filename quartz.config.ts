@@ -16,9 +16,9 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "veil-of-eternal-night.pages.dev",
+    baseUrl: "veil.kryptonick.com",
     trailingSlash: true,	
-    ignorePatterns: ["private", "templates", ".obsidian", "_gm", "assets"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_gm"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
